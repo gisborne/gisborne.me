@@ -2,13 +2,13 @@ title: Guyren.me
 description: > # this means to ignore newlines until "baseurl:"
   Personal thoughts of Guyren Howe
   
-  This is the personal blog of Guyren Howe, where I will discuss matters mostly political and philosophical.
+  This is the personal blog of Guyren Howe, where I will discuss matters mostly political, technological and philosophical.
   permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://guyren.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Guyren Howe # add your name
+author: Guyren G Howe # add your name
 author-img: guyren.jpg # add your photo
 about-author: Developer (professionally)/philosopher (personally).
 social-twitter: unclouded # add your Twitter handle
@@ -27,6 +27,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  - jekyll-feed
 
 paginate: 8
 paginate_path: "/page/:num"
