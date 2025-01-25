@@ -69,7 +69,7 @@ The fragmentation of modern media means we have thousands of mini-prophets — i
 
 # Next: When AI Joins the Game
 
-In the next part, we’ll explore what happens when AI enters this fertile ground. As discussed in [Part 1](https://guyren.me/2024/01/05/AIs-are-Prophets.html), AIs will be the most effective actual prophets we’ve ever seen. They’ll predict and manage our daily lives with unprecedented accuracy.
+In the next part, we’ll explore what happens when AI enters this fertile ground. As discussed in [Part 1](https://guyren.me/2025/01/05/AIs-are-Prophets.html), AIs will be the most effective actual prophets we’ve ever seen. They’ll predict and manage our daily lives with unprecedented accuracy.
 
 They’ll also be master communicators, able to adapt their message perfectly to each follower. The question nobody’s asking is: as people start to trust and follow AIs in large numbers, where will they lead us?
 
