@@ -112,7 +112,9 @@ It's time to bring down the walls we calls "apps" and "websites" (and in some ca
 
 Where are the bicycles for the mind?
 
-Have you ever seen “The Mother of all Demos?” This was a demonstration of in many ways a modern graphical user interface and services. In 1968. There were things demonstrated in that video that we still can't do conveniently today.
+Have you ever seen “The Mother of all Demos?” This was a demonstration of in many ways a modern graphical user interface and services. In 1968, when TV was still in black & white! There were things demonstrated in that video that we still can't do conveniently today.
+
+![Mother of all demos](/assets/img/mother-of-all-demos.png)
 
 Non-programmers are *grossly* under-served by the software we have today. In the early days, we developed software that let non-programmers do computing. The spreadsheet was the first. Also the personal database.
 
