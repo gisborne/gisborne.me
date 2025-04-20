@@ -112,11 +112,11 @@ It's time to bring down the walls we calls "apps" and "websites" (and in some ca
 
 Where are the bicycles for the mind?
 
-Have you ever seen The Mother of all Demos? This was a demonstration of in many ways a modern graphical user interface and services. In 1968. There were things demonstrated in that video that we still can't do conveniently today.
+Have you ever seen “The Mother of all Demos?” This was a demonstration of in many ways a modern graphical user interface and services. In 1968. There were things demonstrated in that video that we still can't do conveniently today.
 
 Non-programmers are *grossly* under-served by the software we have today. In the early days, we developed software that let non-programmers do computing. The spreadsheet was the first. Also the personal database.
 
-And there have been some moderately successful attempts at making basic traditional programming accessible to amateurs. The likes of Visual Basic.
+And there have been some moderately successful attempts at making traditional programming accessible to amateurs. The likes of Visual Basic.
 
 But these were all developed decades ago, and their modern equivalents are not massively better than they were back then. There has not been a single major improvement on this problem since maybe 1990.
 
@@ -154,7 +154,7 @@ Or this, for authentication?
 
 ![Smalltalk 78](/assets/img/smalltalk-78.png)
 
-Do you secretly hate SQL? There was an elegant, simple, much better query language invented in 1977 called (Datalog)[https://en.wikipedia.org/wiki/Datalog].
+Do you secretly hate SQL? There was an elegant, simple, much better query language invented in 1977 called [Datalog](https://en.wikipedia.org/wiki/Datalog).
 
 Here is a query to search for cousins in a database of relations:
 
@@ -179,7 +179,7 @@ Cousin(x,y) AS
 SELECT DISTINCT * FROM Cousin WHERE x <= y ORDER BY 1,2;
 ```
 
-One of my greatest puzzlement about the current state of our industry is why HyperCard disappeared. It was the best kind of non-programmer development environment ever developed.
+One of my greatest puzzlements about the current state of our industry is why HyperCard disappeared. It was the best kind of non-programmer development environment ever developed.
 
 ![HyperCard](/assets/img/hypercard.png)
 
@@ -219,9 +219,9 @@ We can't see past the singularity we're entering. But we don't know nothing abou
 
 We've already seen a fair amount of this. Uber and AirBnB are reinventions of old markets using technology. There will of course be much more of this.
 
-Perhaps that much is obvious. A brief excursion into the theory of the firm might add some depth to this observation.
+Perhaps that much is obvious. Still, a brief excursion into the theory of the firm might add some depth to this observation.
 
-In the theory of the firm, the firm exists to reduce the costs of coordination. There is a reson we don't build our cars by bidding every hour for a supply of labour. Rather, we build domains of extra-market cooperation by longer term contract such as employment. Our economy is in fact various semi-authoritarian domains that use markets as a coordination mechanism wherever that is cheaper.
+In the theory of the firm, the firm exists to reduce the costs of coordination. There is a reason we don't build our cars by bidding every hour for a supply of labour. Rather, we build domains of extra-market cooperation by longer term contract such as employment. Our economy is in fact various semi-authoritarian domains that use markets as a coordination mechanism wherever that is cheaper.
 
 AI affects will move these market boundaries in two ways:
 
@@ -229,7 +229,7 @@ AI affects will move these market boundaries in two ways:
 
 2. Non-market coordination mechanisms will *also* become cheaper and more effective. If we all employ AIs that know our business and can negotiate on our behalf, it is likely to become practical to do a great deal more informal neighbourhood sharing. If I need a hammer drill, my AI knows from Jim around the corner's AI that he has a hammer drill I can borrow for the afternoon. AIs will facilitate a great many new, deeper and richer forms of cooperation.
 
-(There are some other ideas coming from humans that could change some things too. Go read about (Dominant Assurance Contracts)[https://en.wikipedia.org/wiki/Assurance_contract], for example.)
+(There are some other ideas coming from humans that could change some things too. Go read about [Dominant Assurance Contracts](https://en.wikipedia.org/wiki/Assurance_contract), for example.)
 
 The boundaries between the market, the firm, the government, consumers and the community are about to shift, blur and reconfigure entirely.
 
@@ -238,15 +238,15 @@ The boundaries between the market, the firm, the government, consumers and the c
 There will also be entirely new kinds of economic organisation:
 
 - smart contracts (e.g. Ethereum);
-- new types of goods (e.g. place-based digital goods as in (Pokémon Go)[https://en.wikipedia.org/wiki/Pokémon_Go]);
-- new types of markets (e.g. fractional ownership services like (Masterworks)[https://www.masterworks.com] and (Rally)[https://rallyrd.com]
+- new types of goods (e.g. place-based digital goods as in [Pokémon Go](https://en.wikipedia.org/wiki/Pokémon_Go));
+- new types of markets (e.g. fractional ownership services like [Masterworks](https://www.masterworks.com) and [Rally](https://rallyrd.com)
 - deep dynamic pricing
 - reputation systems.
 - synthetic cooperatives — AI-mediated collectives that self-organize around shared goals.
 - personal economic agents — AIs that manage your labor, attention, data, or intellectual property.
 - post-firm production — where systems of value creation look more like networks, guilds, or swarms than balance sheets and reporting chains.
 
-Can we reinvent the committee? Fix HOAs?
+Can we reinvent the committee? Fix HOAs? Ooh, I know: let's reinvent government!
 
 How about Government? Fast feedback loops, closer monitoring, more participation.
 
