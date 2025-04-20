@@ -231,7 +231,7 @@ AI affects will move these market boundaries in two ways:
 
 (There are some other ideas coming from humans that could change some things too. Go read about (Dominant Assurance Contracts)[https://en.wikipedia.org/wiki/Assurance_contract], for example.)
 
-The boundaries between the market, the firm, the government, consumers and the community are about to go all over the place.
+The boundaries between the market, the firm, the government, consumers and the community are about to shift, blur and reconfigure entirely.
 
 ## Non-markets
 
