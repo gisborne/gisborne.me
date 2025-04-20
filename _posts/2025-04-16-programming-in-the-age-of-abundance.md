@@ -241,16 +241,16 @@ There will also be entirely new kinds of economic organisation:
 
 - smart contracts (e.g. Ethereum);
 - new types of goods (e.g. place-based digital goods as in [Pokémon Go](https://en.wikipedia.org/wiki/Pokémon_Go));
-- new types of markets (e.g. fractional ownership services like [Masterworks](https://www.masterworks.com) and [Rally](https://rallyrd.com)
-- deep dynamic pricing
-- reputation systems.
-- synthetic cooperatives — AI-mediated collectives that self-organize around shared goals.
-- personal economic agents — AIs that manage your labor, attention, data, or intellectual property.
+- new types of markets (e.g. fractional ownership services like [Masterworks](https://www.masterworks.com) and [Rally](https://rallyrd.com));
+- deep dynamic pricing;
+- reputation systems;
+- synthetic cooperatives — AI-mediated collectives that self-organize around shared goals;
+- personal economic agents — AIs that manage your labor, attention, data, or intellectual property;
 - post-firm production — where systems of value creation look more like networks, guilds, or swarms than balance sheets and reporting chains.
 
-Can we reinvent the committee? Fix HOAs? Ooh, I know: let's reinvent government!
+Can we reinvent the committee? Fix HOAs? 
 
-How about Government? Fast feedback loops, closer monitoring, more participation.
+Ooh, I know: let's reinvent government! Fast feedback loops, closer monitoring, more participation.
 
 Won't it be fun building software that facilitates a world of greater sharing?
 
