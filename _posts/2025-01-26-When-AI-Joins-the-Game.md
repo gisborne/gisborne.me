@@ -108,7 +108,7 @@ What happens when the prophets are:
 
 And what happens when they start working together? Or against each other? Or for malicious actors?
 
-> A large populace held in check by a small but powerful force is quite a common situation in our universe. And we know the major conditions wherein this large populace turn upon its keepers -  One: When they find a leader. This is the most volatile threat to the powerful; they must retain control of leaders. Two: When the populace recognises its chains. Keep the populace blind and unquestioning.  Three: When the populace perceives a hope of escape form bondage. They must never even believe that escape is possible!
+> A large populace held in check by a small but powerful force is quite a common situation in our universe. And we know the major conditions wherein this large populace turn upon its keepers - One: When they find a leader. This is the most volatile threat to the powerful; they must retain control of leaders.Two: When the populace recognises its chains. Keep the populace blind and unquestioning. Three: When the populace perceives a hope of escape form bondage. They must never even believe that escape is possible!
 - Frank Herbert, Children of Dune
 
 But AI prophets won't die. They'll just keep getting better at prophecy. Keep gathering followers. Keep shaping reality.
