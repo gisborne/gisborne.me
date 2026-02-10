@@ -75,9 +75,7 @@ The reasons are less clear, but the deployment of personal computers did not cle
 
 Desktop personal computers became ubiquitous in business in the early 80s, but the earliest credible finding of productivity improvements from IT investment was reported in 1996. Here is a [great, short discussion of the issue by the St. Louis Fed, in 1998](https://www.stlouisfed.org/publications/regional-economist/october-1998/have-computers-made-us-more-productive-a-puzzle).
 
-The reasons are debated. A reasonable general answer is just that business takes time to adapt to new technologies.
-
-Part of why programmers aren't out of a job right away is that business will take time to adapt to new technologies. The old ways will persist for longer than you might expect.
+The reasons are debated. A reasonable general answer is just that business takes time to adapt to new technologies. The old ways will persist for longer than you might expect.
 
 Back to supply and demand.
 
