@@ -275,4 +275,8 @@ Public-sector responses may therefore benefit more from sustained investment in 
 
 # Conclusion
 
-A world of rapid change that is almost entirely driven by and enabled by software is not one in which programmers will be idle.
+A world of rapid change that is largely driven by, and enabled by, software is not one in which programmers — or, by extension, many white-collar workers — are likely to be idle.
+
+Adjustment is likely to unfold over years or decades rather than quarters. Over that period, substantial improvements in software capability, usability, and scope of application can be expected, with significant effects on productivity and, through that channel, on demand for other occupations.
+
+The analysis suggests that the scale and pace of adjustment will depend less on the displacement of specific roles than on the capacity of institutions — such as education systems, labour markets, and organisational structures — to adapt to falling costs and expanding possibilities. Where those institutions are flexible, much of the adjustment is likely to be absorbed through growth, reallocation, and the creation of new forms of work.
