@@ -2,7 +2,7 @@
 layout: post
 ---
 
-[Don't forget to read my policy discussion starting with {% post_url 2026-02-19-AI-in-Australia-First-Order-Effects %}.]
+[Don't forget to read my policy discussion starting with  [AI in Australia: First Order Effects](2026-02-19-AI-in-Australia-First-Order-Effects.html).]
 
 AI is transforming every white collar profession. But where is this taking us? Are all such jobs to be obsolete? What are the appropriate policy responses?
 
