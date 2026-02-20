@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # AI in Australia: First Order Effects
 
 Much of the discussion I hear concerning how policy should adapt to AI seems to me misguided. The dominant AI policy debate assumes a rapid labour shock and regulatory crisis. The more plausible near-term reality is a capital-intensive supply shock interacting with pre-existing structural constraints — especially housing and energy.
@@ -8,7 +12,7 @@ I will begin by setting the stage: what do we know or suspect, with what confide
 
 # Business and employment will adjust slower than folks expect
 
-I discuss why in [Programming in the Age of Abundance](https://guyren.me/2025/04/16/programming-in-the-age-of-abundance.html). Mostly: business takes decades to even partly adopt new technologies, and if it gets cheaper to do white collar work like programming, there is likely to be a big increase in the amount of such work that gets done.
+I discuss why in [Programming in the Age of Abundance](programming-in-the-age-of-abundance.html). Mostly: business takes decades to even partly adopt new technologies, and if it gets cheaper to do white collar work like programming, there is likely to be a big increase in the amount of such work that gets done.
 
 # The Macroeconomic effects will be both inflationary and deflationary
 
