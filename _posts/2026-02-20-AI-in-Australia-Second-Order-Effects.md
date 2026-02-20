@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# AI in Australia: Second Order Effects
+# Introduction
 
 In [previous](2026-02-19-AI-in-Australia-First-Order-Effects.html) [pieces](2025-04-16-programming-in-the-age-of-abundance.html) I discussed how Programmers aren’t out of a job just yet, and summarised the likely first-order effects of AI on the Australian economy￼.
 

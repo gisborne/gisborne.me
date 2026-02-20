@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# AI in Australia: First Order Effects
+# Introduction
 
 Much of the policy conversation around AI begins from the assumption of imminent labour collapse. The dominant image is one of rapid displacement, mass unemployment, and urgent redistribution.
 
