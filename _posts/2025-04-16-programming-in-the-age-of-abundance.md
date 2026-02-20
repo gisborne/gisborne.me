@@ -2,6 +2,8 @@
 layout: post
 ---
 
+[Don't forget to read my policy discussion starting with {% post_url 2026-02-19-AI-in-Australia-First-Order-Effects %}.]
+
 AI is transforming every white collar profession. But where is this taking us? Are all such jobs to be obsolete? What are the appropriate policy responses?
 
 While there are no certainties, Economic theory and history have a good deal to say about this transformation.
