@@ -1,4 +1,4 @@
-# AI Policy for Australia: Setting the Stage
+# AI in Australia: First Order Effects
 
 Much of the discussion I hear concerning how policy should adapt to AI seems to me misguided. The dominant AI policy debate assumes a rapid labour shock and regulatory crisis. The more plausible near-term reality is a capital-intensive supply shock interacting with pre-existing structural constraints — especially housing and energy.
 
