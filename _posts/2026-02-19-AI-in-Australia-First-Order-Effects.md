@@ -128,4 +128,4 @@ The constraints — housing, energy, regulatory capacity — are largely domesti
 
 Those are where attention should be directed.
 
-Up next: {% post_url 2026-02-20-AI-in-Australia-Second-Order-Effects %}
+Up next: [Second Order Effects]({% post_url 2026-02-20-AI-in-Australia-Second-Order-Effects %})
