@@ -13,23 +13,27 @@ Here, I consider how AI may affect the policy environment itself. I outline a se
 # TL;DR
 
 If we think of the policy pipeline as:
-	1.	Problem identification
-	2.	Option generation
-	3.	Analysis
-	4.	Consultation / review
-	5.	Decision
-	6.	Implementation
+
+1.	Problem identification
+2.	Option generation
+3.	Analysis
+4.	Consultation / review
+5.	Decision
+6.	Implementation
 
 Then AI is likely to strongly accelerate:
- - (2) option generation
- - (3) analysis
+
+(2) option generation<br>
+(3) analysis
 
 partially accelerate:
- - (4) consultation processing
+
+(4) consultation processing
 
 and only weakly affect:
- - (5) decision
- - (6) implementation
+
+(5) decision<br>
+(6) implementation
 
 The result is a shift in constraint — as the supply of policy options increases, the capacity to evaluate and select among them becomes more salient.
 
@@ -153,7 +157,7 @@ One must be humble about predicting the consequences of the fast and wide-rangin
 
 These effects are unlikely to be uniform across policy domains, but the underlying shift in constraint is likely to be general.
 
-# Closing (100–150 words)
+# Closing
 
 AI does not remove constraints from the policy process. It changes where they bind.
 
@@ -164,3 +168,14 @@ This has several implications. Influence is likely to attach more strongly to th
 These are not predictions of dysfunction. They are predictions of a system adjusting to a new set of constraints.
 
 The central question is not whether AI will make policy-making more capable, but how institutions adapt to a world in which policy is abundant and attention is scarce.
+
+# References and further reading
+
+The ideas in this piece build on several well-established strands of work in economics and political science:
+- Bounded rationality — associated with Herbert Simon — describes decision-making under constraints of time, information, and cognition. This piece extends that framework by considering how a rapid increase in the supply of policy options affects those constraints.
+- Rational inattention — associated with Christopher Sims — treats attention as a scarce resource that must be allocated selectively. The argument here can be understood as an application of this idea to policy-making: as policy production becomes cheaper, the allocation of attention becomes more consequential.
+- Agenda-setting theory — developed in political science by scholars such as John Kingdon — emphasises the importance of which issues and proposals enter active consideration. This piece suggests that as the number of policy-shaped proposals increases, agenda-setting becomes more central to outcomes.
+
+There is also a growing literature on the use of AI in the policy process, much of which focuses on improvements in analysis, participation, and efficiency. The perspective taken here is complementary: rather than asking how AI improves policy production, it considers how falling costs of policy production shift the constraints under which policy-making operates.
+
+Errors and overextensions are, of course, my own.
